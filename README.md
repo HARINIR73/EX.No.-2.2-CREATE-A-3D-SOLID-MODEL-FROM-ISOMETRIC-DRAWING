@@ -14,7 +14,7 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 ## PROCEDURE
 1. Sketch the base plate: Start a sketch on the bottom plane, draw a rectangle with rounded ends, and add two mounting circles.
 
-2. ![Uploading Screenshot 2026-11-17 203411.png…]()
+2.<img width="292" height="227" alt="Screenshot 2026-11-17 203411" src="https://github.com/user-attachments/assets/59932ae3-3474-48e0-9bf7-14b25519ee2a" />
 
 3. Extrude the base: Finish the sketch and Extrude the base plate profile upward to create the bottom flange with two holes.
 
@@ -40,8 +40,7 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
     
 14. Verify the solid body: Confirm all features are set to Join so the bracket forms a single, unified 3D part.
 
-15![Uploading Screenshot 2026-11-17 203411.png…]()
-.<img width="381" height="107" alt="Screenshot 2026-11-16 031737" src="https://github.com/user-attachments/assets/8112423c-5512-45ad-b91f-7709794383fa" />
+15.<img width="381" height="107" alt="Screenshot 2026-11-16 031737" src="https://github.com/user-attachments/assets/8112423c-5512-45ad-b91f-7709794383fa" />
 
 
 
